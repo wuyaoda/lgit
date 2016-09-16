@@ -1,4 +1,5 @@
 test1
+test2
 hello world
 
 Git is a version control system.
